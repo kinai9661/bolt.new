@@ -18,6 +18,7 @@ export default defineConfig((config) => {
     },
     build: {
       target: 'esnext',
+      chunkSizeWarningLimit: 1500,
     },
     plugins: [
       nodePolyfills({
