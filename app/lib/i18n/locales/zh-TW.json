@@ -1,0 +1,71 @@
+{
+  "common": {
+    "send": "發送",
+    "cancel": "取消",
+    "save": "儲存",
+    "delete": "刪除",
+    "edit": "編輯",
+    "close": "關閉",
+    "loading": "載入中...",
+    "error": "錯誤",
+    "success": "成功"
+  },
+  "chat": {
+    "placeholderBuild": "Bolt 今天可以幫你做什麼？",
+    "placeholderDiscuss": "你想討論什麼？",
+    "sendMessage": "發送訊息",
+    "enhancePrompt": "增強提示",
+    "promptEnhanced": "提示詞已增強！",
+    "stopGeneration": "停止生成",
+    "attachFiles": "附加檔案",
+    "takeScreenshot": "截圖",
+    "voiceInput": "語音輸入",
+    "discuss": "討論",
+    "modelSettings": "模型設定",
+    "uploadFile": "上傳檔案",
+    "selectedForInspection": "已選取用於檢視",
+    "clear": "清除",
+    "newLineHint": "使用 <shift></shift> + <return></return> 換行"
+  },
+  "settings": {
+    "title": "設定",
+    "language": "語言",
+    "theme": "主題",
+    "darkMode": "深色模式",
+    "lightMode": "淺色模式",
+    "systemDefault": "系統預設",
+    "notifications": "通知",
+    "enableNotifications": "啟用通知",
+    "eventLogs": "事件日誌",
+    "enableEventLogs": "啟用事件日誌",
+    "debugMode": "除錯模式",
+    "enableDebugMode": "啟用除錯模式",
+    "contextOptimization": "上下文最佳化",
+    "enableContextOptimization": "啟用上下文最佳化",
+    "autoSelectTemplate": "自動選擇範本",
+    "enableAutoSelectTemplate": "啟用自動選擇範本",
+    "latestBranch": "最新分支",
+    "useLatestBranch": "使用最新分支"
+  },
+  "languages": {
+    "en": "English",
+    "zh-TW": "繁體中文"
+  },
+  "settingsTab": {
+    "preferences": "偏好設定",
+    "language": "語言",
+    "notifications": "通知",
+    "notificationsEnabled": "通知已啟用",
+    "notificationsDisabled": "通知已停用",
+    "notificationsStatus": "通知已{{status}}",
+    "enabled": "啟用",
+    "disabled": "停用",
+    "timeSettings": "時間設定",
+    "timezone": "時區",
+    "keyboardShortcuts": "鍵盤快捷鍵",
+    "toggleTheme": "切換主題",
+    "switchThemeDescription": "在淺色與深色模式之間切換",
+    "settingsUpdated": "設定已更新",
+    "settingsUpdateFailed": "設定更新失敗"
+  }
+}

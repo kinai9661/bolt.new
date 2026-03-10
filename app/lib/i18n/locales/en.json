@@ -1,0 +1,71 @@
+{
+  "common": {
+    "send": "Send",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "chat": {
+    "placeholderBuild": "How can Bolt help you today?",
+    "placeholderDiscuss": "What would you like to discuss?",
+    "sendMessage": "Send message",
+    "enhancePrompt": "Enhance prompt",
+    "promptEnhanced": "Prompt enhanced!",
+    "stopGeneration": "Stop generation",
+    "attachFiles": "Attach files",
+    "takeScreenshot": "Take screenshot",
+    "voiceInput": "Voice input",
+    "discuss": "Discuss",
+    "modelSettings": "Model Settings",
+    "uploadFile": "Upload file",
+    "selectedForInspection": "selected for inspection",
+    "clear": "Clear",
+    "newLineHint": "Use <shift></shift> + <return></return> a new line"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "systemDefault": "System Default",
+    "notifications": "Notifications",
+    "enableNotifications": "Enable notifications",
+    "eventLogs": "Event Logs",
+    "enableEventLogs": "Enable event logs",
+    "debugMode": "Debug Mode",
+    "enableDebugMode": "Enable debug mode",
+    "contextOptimization": "Context Optimization",
+    "enableContextOptimization": "Enable context optimization",
+    "autoSelectTemplate": "Auto Select Template",
+    "enableAutoSelectTemplate": "Enable auto select template",
+    "latestBranch": "Latest Branch",
+    "useLatestBranch": "Use latest branch"
+  },
+  "languages": {
+    "en": "English",
+    "zh-TW": "繁體中文"
+  },
+  "settingsTab": {
+    "preferences": "Preferences",
+    "language": "Language",
+    "notifications": "Notifications",
+    "notificationsEnabled": "Notifications are enabled",
+    "notificationsDisabled": "Notifications are disabled",
+    "notificationsStatus": "Notifications {{status}}",
+    "enabled": "enabled",
+    "disabled": "disabled",
+    "timeSettings": "Time Settings",
+    "timezone": "Timezone",
+    "keyboardShortcuts": "Keyboard Shortcuts",
+    "toggleTheme": "Toggle Theme",
+    "switchThemeDescription": "Switch between light and dark mode",
+    "settingsUpdated": "Settings updated",
+    "settingsUpdateFailed": "Failed to update settings"
+  }
+}
